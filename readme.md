@@ -1,5 +1,7 @@
 <h1>Bytebank | typescript</h1>
 
+O programa pode ser acessado clicando [aqui](https://eanicomaco.github.io/mbytebank/). Publicado no github.io, com uso de actions!
+
 O usuário realiza lançamentos positivos (depósitos) e negativos (transferências e pagamento de boletos).
 
 O saldo da conta corrente e o painel de extrato são atualizados em tempo de execução.
